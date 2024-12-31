@@ -4,7 +4,7 @@ To build an intelligent system that analyzes resumes and generates relevant ques
 
 
      
-<img width="1438" alt="image" src="https://drive.google.com/file/d/1k5uUazAO88u8muSaST0ZpslJnbNzostf/view">
+<img width="800" alt="image" src="https://github.com/riyaarora03/resume-analyser/blob/main/assets/Screenshot%202024-12-31%20at%208.31.21%E2%80%AFPM.png">
 
 ## TECHNOLOGIES USED
 #### 1. Natural Language Processing
@@ -12,7 +12,8 @@ To build an intelligent system that analyzes resumes and generates relevant ques
 • Retrieval-Augmented Generation (RAG-Chain)
 #### 2. Google Gemini 1.5-Flash
 
-<img width="1438" alt="image" src="https://drive.google.com/file/d/1NPmJ0AAmgsW3S_vbiQn3Xl04UTAJQMvu/view?usp=sharing">
+## APPLICATION OF GEN-AI IN THE PROJECT         
+<img width="800" alt="image" src="https://github.com/riyaarora03/resume-analyser/blob/main/assets/Screenshot%202024-12-31%20at%208.51.46%E2%80%AFPM.png">
 
 
 ## IMPLEMENTATION
@@ -32,7 +33,7 @@ To build an intelligent system that analyzes resumes and generates relevant ques
 • Pass to LLM: Send the augmented prompt to an LLM to generate a response.    
 • Output Generation: Return the final response, which includes detailed and context-specific answers or generated questions.         
 
-<img width="1438" alt="image" src="https://drive.google.com/file/d/1zHg5rU-9iIMoofi5Wq2xqXiO5sPJzzdh/view?usp=sharing">
+<img width="800" alt="image" src="https://github.com/riyaarora03/resume-analyser/blob/main/assets/Screenshot%202024-12-31%20at%208.46.39%E2%80%AFPM.png">
 
 - The RAG Chain produces a responsive Q&A system on the frontend.   
 - It effectively retrieves relevant information and generates accurate answers for user queries.   
