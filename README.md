@@ -1,6 +1,7 @@
 # ASKMYRESUME   
 
-To build an intelligent system that analyzes resumes and generates relevant questions and answers which can help candidates to better prepare, boosting their confidence and readiness.   
+To build an intelligent system that analyzes resumes and generates relevant questions and answers which can help candidates to better prepare, boosting their confidence and readiness.     
+This project is a part of our college's Major Project initiative, showcasing advanced techniques in resume data extraction and Named Entity Recognition (NER) to aid job candidates in interview preparation. 
 
 
      
